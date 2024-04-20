@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\entities\\personadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\entities\\personadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\profesionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\profesionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\telefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\telefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\iprofesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\iprofesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\views\\profesions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:views\\profesions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\itelefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\itelefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\estudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\estudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\iestudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\iestudiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\entities\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\entities\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\controllers\\telefonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:controllers\\telefonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\controllers\\estudioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:controllers\\estudioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\models\\entities\\profesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:models\\entities\\profesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\controllers\\profesionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:controllers\\profesionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|c:\\users\\sebas\\noveno semestre\\arquitectura de software\\labs\\lab1\\local\\2.0\\personaapi-dotnet\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F6FA67-24FE-4988-BCCC-9EF812C07469}|personaapi-dotnet.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelefonoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\TelefonoRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\TelefonoRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\TelefonoRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\TelefonoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:49:25.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITelefonoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\ITelefonoRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\ITelefonoRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\ITelefonoRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\ITelefonoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:46:00.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProfesion.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\IProfesion.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IProfesion.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\IProfesion.cs",
+              "RelativeToolTip": "Models\\Repository\\IProfesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:12:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstudioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\EstudioRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\EstudioRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\EstudioRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\EstudioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:30:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\IPersonaRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\IPersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:45:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfesionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\ProfesionRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\ProfesionRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\ProfesionRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\ProfesionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:13:41.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Entities\\PersonaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PersonaDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Entities\\PersonaDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\PersonaDbContext.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:37:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:48:02.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Views\\Profesions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profesions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Views\\Profesions\\Create.cshtml",
+              "RelativeToolTip": "Views\\Profesions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T17:03:03.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T16:00:00.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\PersonaRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\PersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:47:03.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEstudioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\IEstudioRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IEstudioRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Repository\\IEstudioRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\IEstudioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:25:25.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Entities\\Telefono.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Telefono.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Entities\\Telefono.cs",
+              "RelativeToolTip": "Models\\Entities\\Telefono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:46:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TelefonoesController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\TelefonoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TelefonoesController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\TelefonoesController.cs",
+              "RelativeToolTip": "Controllers\\TelefonoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:45:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profesion.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Entities\\Profesion.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Profesion.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Models\\Entities\\Profesion.cs",
+              "RelativeToolTip": "Models\\Entities\\Profesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:10:28.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EstudiosController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\EstudiosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiosController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\EstudiosController.cs",
+              "RelativeToolTip": "Controllers\\EstudiosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:23:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfesionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\ProfesionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesionsController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\ProfesionsController.cs",
+              "RelativeToolTip": "Controllers\\ProfesionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:10:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T15:54:02.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Noveno Semestre\\Arquitectura de software\\Labs\\Lab1\\local\\2.0\\personaapi-dotnet\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:39:58.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

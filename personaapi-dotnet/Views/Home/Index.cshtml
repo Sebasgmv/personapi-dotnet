@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="list-group">
+    <a href="@Url.Action("Index", "Personas")" class="list-group-item list-group-item-action">
+        Personas :3
+    </a>
+    <a href="@Url.Action("Index", "Profesions")" class="list-group-item list-group-item-action">
+        Profesiones :3
+    </a>
+    <a href="@Url.Action("Index", "Estudios")" class="list-group-item list-group-item-action">
+        Estudios :3
+    </a>
+    <a href="@Url.Action("Index", "Telefonoes")" class="list-group-item list-group-item-action">
+        Telefonos :3
+    </a>
+</div>
